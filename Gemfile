@@ -7,6 +7,7 @@ gem 'rails', '3.1.10'
 
 gem 'mysql2'
 gem 'execjs'
+gem 'nokogiri'
 
 
 # Gems used only for assets and not required
