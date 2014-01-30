@@ -148,6 +148,7 @@ GEM
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    youtube_search (0.1.7)
 
 PLATFORMS
   ruby
@@ -163,3 +164,4 @@ DEPENDENCIES
   rspec-rails
   sass-rails (~> 3.1.5)
   uglifier (>= 1.0.3)
+  youtube_search
